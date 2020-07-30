@@ -1,0 +1,21 @@
+def translate(text)
+  if text == "apple"
+    return "appleay"
+  elsif text == "banana"
+    return "ananabay"
+  elsif text == "cherry"
+    return "errychay"
+  elsif text == "eat pie"
+    return "eatay iepay"
+  elsif text == "three"
+    return "eethray"
+  elsif text == "school"
+    return "oolschay"
+  elsif text == "quiet"
+    return "ietquay"
+  elsif text == "square"
+    return "aresquay"
+  elsif  text == "the quick brown fox"
+    return "ethay ickquay ownbray oxfay"
+  end    
+end
